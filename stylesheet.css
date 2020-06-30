@@ -31,7 +31,7 @@ header{
 }
 
 .profile{
-  background-image:url(/Users/ry0hei/Desktop/jQueryまで/ramiro-mendes-CjS3QsRuxnE-unsplash.jpg);
+  background-image:url(ramiro-mendes-CjS3QsRuxnE-unsplash.jpg);
   background-size:cover;
   width:100%;
   height:700px;
@@ -112,7 +112,7 @@ header{
 
 .contact{
   height:500px;
-  background-image:url("/Users/ry0hei/Desktop/jQueryまで/thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg");
+  background-image:url("thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg");
 }
 
 .contact img{
