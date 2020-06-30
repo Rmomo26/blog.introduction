@@ -31,7 +31,7 @@ header{
 }
 
 .profile{
-  background-image:url(ramiro-mendes-CjS3QsRuxnE-unsplash.jpg);
+  background-image:url("ramiro-mendes-CjS3QsRuxnE-unsplash.jpg");
   background-size:cover;
   width:100%;
   height:700px;
